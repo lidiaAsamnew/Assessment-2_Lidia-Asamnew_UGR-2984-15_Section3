@@ -1,0 +1,112 @@
+
+body { margin:0; padding:0; width:100%; 
+    }
+.clr { clear:both; padding:0; margin:0; width:100%;
+     font-size:0px; line-height:0px;
+    }
+header{
+    padding: 10px 230px 15px;   
+}
+h2 { padding:8px 0; margin:8px 0;}
+
+.tagline{
+    margin-left: 150px;
+}
+.site_title{
+    margin-left: 50px;
+    margin-bottom: 80px;
+    margin-top: -5px;
+    
+}
+li a{
+    padding: 10px 15px;
+}
+nav{
+    margin-bottom: 8px;
+}
+
+.navigation{
+    display: flex;
+}
+
+main img{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.container {
+    display: flex; /* Makes `main` and `aside` align horizontally */
+    gap: 30px; /* Sets the horizontal gap between `main` and `aside` */
+    padding: 20px;
+    padding-bottom:16px;
+    margin-left: 250px;
+}
+main {
+    float:left; width:630px;
+}
+aside{
+    
+    float:right; width:236px;
+}
+article{
+    margin:0; padding:0 16px 0 0; float:left; width:297px;
+}
+
+p { margin:8px 0; padding:0 0 8px 0;}
+
+aside ul { margin:0; padding:0 0 0; list-style:none;}
+aside section{
+    margin:0; padding:0 0 16px 0;
+}
+aside ul li{
+    padding:4px 0 8px;
+}
+.template-license img {
+    margin: 0;
+    padding: 0;
+    display: block; 
+    height: 180px;
+}
+
+
+.about{
+    text-wrap: wrap;
+}
+
+.template-license img{
+    margin-top: 0;
+    margin-bottom: -3px;
+}
+.fbg_resize .col { margin:0; float:left;}
+.fbg_resize .c1 { padding:0 16px 0 0; width:246px;}
+.fbg_resize .c2 { padding:0 16px; width:336px;}
+.fbg_resize .c3 { padding:0 0 0 16px; width:240px;}
+.fbg_resize .c2 img { margin:8px 16px 4px 0; padding:0; float:left;}
+.fbg_resize .c1 img, .fbg_resize .c3 img { margin:4px; padding:0;}
+
+
+
+.footer p.lf { margin:0; padding:8px 0; float:left;
+     width:auto; line-height:1.5em;
+    }
+ul.fmenu { margin:0; padding:8px 0; list-style:none; float:right; width:auto;}
+ul.fmenu li { margin:0; padding:0 12px; float:left;}
+
+
+ol li label { display:block; margin:0; padding:16px 0 0 0;}
+ol li input.text { width:480px;  
+    margin:2px 0; padding:5px 2px; height:16px; 
+}
+ol li textarea { width:480px;  
+    margin:2px 0; padding:2px; 
+}
+ol li .send { margin:16px 0 0 0;}
+
+button { 
+    padding: 8px 16px;    
+}
+footer{
+    padding:16px 250px;
+}
