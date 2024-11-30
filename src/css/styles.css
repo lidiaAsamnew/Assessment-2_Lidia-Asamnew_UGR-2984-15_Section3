@@ -9,7 +9,7 @@ header{
     font-size:60px;
 }
 .first-word{
-    color: hsl(350, 55%, 68%);
+    color: hsl(306, 58%, 32%);
 }
 a{
     color: hsl(216, 75%, 46%);
@@ -17,7 +17,7 @@ a{
 h1{
     color: white;
 }
-h2 { font:bold 24px Arial, Helvetica, sans-serif; color:hsl(216, 56%, 57%); }
+h2 { font:bold 24px Arial, Helvetica, sans-serif; color:hsl(286, 58%, 29%); }
 
 .tagline{
     color: white;
@@ -37,7 +37,7 @@ a:active{
     background-color:hsl(216, 92%, 47%) ;
 }
 header li a{
-   background-color: hsl(216, 65%, 61%);
+   background-color: hsl(288, 30%, 49%);
    color: white;
    border: solid white 0.2px 1px;
    

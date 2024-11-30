@@ -37,8 +37,8 @@ main img{
 
 }
 .container {
-    display: flex; /* Makes `main` and `aside` align horizontally */
-    gap: 30px; /* Sets the horizontal gap between `main` and `aside` */
+    display: flex; 
+    gap: 30px; 
     padding: 20px;
     padding-bottom:16px;
     margin-left: 250px;
@@ -110,3 +110,4 @@ button {
 footer{
     padding:16px 250px;
 }
+
